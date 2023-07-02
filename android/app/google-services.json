@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041865303754",
+    "project_id": "a2-login-1cb89",
+    "storage_bucket": "a2-login-1cb89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041865303754:android:11ca8ad0cee42496177633",
+        "android_client_info": {
+          "package_name": "com.example.recycleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041865303754-3sdcnr9mguonagtqtgqsvfautbreco8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDplF5GaGcFrQplaVP6SNgo8HLaDV6H2zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041865303754-3sdcnr9mguonagtqtgqsvfautbreco8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
