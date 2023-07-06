@@ -1,11 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:recycleapp/auth_controller.dart';
 import 'package:recycleapp/welcome_screen.dart';
-import 'signup_page.dart';
-import 'end_page.dart';
-import 'login_page.dart';
-import 'package:get/get.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp().then((value) => Get.put(AuthController()));
